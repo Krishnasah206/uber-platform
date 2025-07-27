@@ -10,13 +10,12 @@ A backend-focused, scalable ride-sharing system built with **Java Spring Boot**,
 
 | Layer         | Technology                          |
 | ------------- | ----------------------------------- |
-| Frontend      | ReactJS, Axios, Tailwind (optional) |
+| Frontend      | ReactJS, Axios, Tailwind            |
 | Backend       | Spring Boot, Spring Security, JWT   |
 | Database      | MongoDB (NoSQL)                     |
-| Caching (opt) | Redis                               |
+| Caching       | Redis                               |
 | Auth          | JWT (Stateless Token Auth)          |
 | Dev Tools     | Postman, Swagger, Docker            |
-| Deployment    | AWS EC2 / Docker Compose (optional) |
 
 ---
 
