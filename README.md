@@ -1,4 +1,4 @@
-## 🚗 Scalable Ride Sharing Platform (Uber/Ola Clone)
+## 🚗 Scalable Ride Sharing Platform (Uber Clone)
 
 A backend-focused, scalable ride-sharing system built with **Java Spring Boot**, **MongoDB**, **JWT Authentication**, and a **ReactJS frontend**.
 
