@@ -1,0 +1,72 @@
+# === Node.js / React Frontend ===
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/.DS_Store
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.eslintcache
+
+# Mac system files
+.DS_Store
+
+# === Java / Spring Boot Backend ===
+backend/target/
+backend/.idea/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.vscode/
+backend/.env
+backend/.DS_Store
+backend/logs/
+backend/*.iml
+
+# Maven specific
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+
+# Gradle (if using)
+backend/build/
+backend/.gradle/
+
+# === Common ===
+*.log
+*.tmp
+*.swp
+*.swo
+.env
+*.bak
+*.orig
+
+# === OS / IDE Files ===
+*.class
+*.war
+*.jar
+*.log
+*.db
+*.sqlite
+
+# === IntelliJ / Eclipse / VSCode ===
+.idea/
+*.iml
+.vscode/
+*.launch
+
+# === Docker ===
+**/docker-compose.override.yml
+**/.docker/
+**/.dockerignore
+**/Dockerfile
+
+# === Test / Coverage ===
+**/coverage/
+**/test-results/
+**/jest/
+**/.nyc_output/
+
+# === Linux/Mac Executable ===
+*.out
+*.o
